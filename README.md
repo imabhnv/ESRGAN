@@ -25,4 +25,5 @@ drive.mount('/content/drive')
 after that it will walk you to a sign up page just like what we did for google account and give to you a code,copy it and paste it in the notebook(if asked)..if this step is not asked don't worry it is not an error
 4) Upload the ESRGAN model folder through google drive and then paste %cd '/content/drive/MyDrive/<name of your project folder>'
 5) Finally run !python test.py and see the new images in result folder
-               ..............................................ENJOY_THE_CODE.........................................
+               
+..............................................ENJOY_THE_CODE.........................................
