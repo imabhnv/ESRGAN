@@ -7,7 +7,7 @@ FIRST OF ALL CREATE A VIRTUAL ENVIRONMENT : py -m venv <name_of_your_environment
 # 1. Clone Repo
 git clone https://github.com/xinntao/ESRGAN
 # 2. Download Model 
-Get model https://drive.google.com/drive/u//folders/17VYV SoZZesU6mbxz2dMAIccSS1qLecY download any one and paste it in models folder
+Get model https://drive.google.com/drive/u//folders/17VYVSoZZesU6mbxz2dMAIccSS1qLecY download any one and paste it in models folder
 # 3. Install Dependencies
 Pip ihstall PyTorch CUDA
 just copy and paste it in your cmd terminal: pip install torch==1.13.0+cu116 torchvision==0.14.0+cu116 torchaudio==0.13.0 --extra-index-url https://download.pytorch.org/whl/cu116
